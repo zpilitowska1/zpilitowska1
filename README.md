@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋👋
 
-<!--
-**zpilitowska1/zpilitowska1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| AI & Data Science student in Breda  
+| Exploring machine learning, data analysis, and artificial intelligence  
+| Building projects to learn and grow  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- [Listening Pattern Data Analysis Dashboard](____) – Interactive data dashboard built with Power BI  
+- [Food Recognition App](__) – Image classification using CNN to recognize food  
+- [Medical Knowledge Chatbot]( ____) – Chatbot powered by LLM with medical knowledge  
+- [Stock Price Predictor](_____) – Time series forecasting using LSTMs  
+
+---
+
+### Tech Stack
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
