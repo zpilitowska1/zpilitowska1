@@ -9,7 +9,7 @@
 ### Featured Projects
 - [Listening Pattern Data Analysis Dashboard](____) – Interactive data dashboard built with Power BI  
 - [Food Recognition App](__) – Image classification using CNN to recognize food  
-- [Medical Knowledge Chatbot]([https://github.com/zpilitowska1/Medical-Chatbot-Generative-AI]) – Chatbot powered by LLM with medical knowledge  
+- [Medical Knowledge Chatbot](https://github.com/zpilitowska1/Medical-Chatbot-Generative-AI) – Chatbot powered by LLM with medical knowledge  
 - [Stock Price Predictor](_____) – Time series forecasting using LSTMs  
 
 ---
