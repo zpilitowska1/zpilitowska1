@@ -8,7 +8,7 @@
 
 ### Featured Projects
 - [Listening Pattern Data Analysis Dashboard](https://github.com/zpilitowska1/spotify-analysis/tree/main) – Interactive data dashboard built with Power BI  
-- [Food Recognition App](__) – Image classification using CNN to recognize food  
+- [Food Recognition App](https://github.com/zpilitowska1/food-recognition-app) – Image classification using CNN to recognize food  
 - [Medical Knowledge Chatbot](https://github.com/zpilitowska1/Medical-Chatbot-Generative-AI) – Chatbot powered by LLM with medical knowledge  
 - [Stock Price Predictor](_____) – Time series forecasting using LSTMs  
 
