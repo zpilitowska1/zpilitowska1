@@ -7,13 +7,28 @@
 ---
 
 ### Featured Projects
-- [Job Search Assistant](https://github.com/zpilitowska1/job-search-assistant) - NLP-powered chatbot that automates job searching based on user input.
-Combines natural language understanding, SerpAPI integration, web scraping, Gradio web interface. 
-- [Stock Price Predictor](https://github.com/zpilitowska1/stocks-predictor) – Streamlit dashboard with time series forecasting using LSTMs  
-- [Listening Pattern Data Analysis Dashboard](https://github.com/zpilitowska1/spotify-analysis/tree/main) – Interactive data dashboard built with Power BI  
-- [Food Recognition App](https://github.com/zpilitowska1/food-recognition-cnn) – Image classification using CNN to recognize foods  
-- [Medical Knowledge Chatbot](https://github.com/zpilitowska1/Medical-Chatbot-Generative-AI) – Chatbot powered by LLM with medical knowledge  
 
+### [Job Search Assistant](https://github.com/zpilitowska1/job-search-assistant)  
+**Description:** NLP-powered chatbot that automates job searching based on user input.  
+**Tech & Features:** Natural Language Understanding, SerpAPI integration, web scraping, Gradio web interface.  
+
+### [Stock Price Predictor](https://github.com/zpilitowska1/stocks-predictor)  
+**Description:** Streamlit dashboard for time series forecasting using LSTMs.  
+**Tech & Features:** LSTM, Streamlit, Time Series Analysis.  
+
+### [Listening Pattern Data Analysis Dashboard](https://github.com/zpilitowska1/spotify-analysis/tree/main)  
+**Description:** Interactive dashboard analyzing Spotify listening patterns.  
+**Tech & Features:** Power BI, Data Visualization, Analytics.  
+
+### [Food Recognition App](https://github.com/zpilitowska1/food-recognition-cnn)  
+**Description:** Image classification app to recognize different foods.  
+**Tech & Features:** CNN, Computer Vision, Python.  
+
+### [Medical Knowledge Chatbot](https://github.com/zpilitowska1/Medical-Chatbot-Generative-AI)  
+**Description:** Chatbot powered by LLM with medical knowledge.  
+**Tech & Features:** Large Language Model (LLM), NLP, Python.  
+
+---
 ---
 
 ### Tech Stack
