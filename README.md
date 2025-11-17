@@ -1,12 +1,16 @@
 # Hi there! 👋👋
 
-| AI & Data Science student in Breda  
+| AI & Data Science student 
 | Exploring machine learning, data analysis, and artificial intelligence  
 | Building projects to learn and grow  
 
 ---
 
 ### Featured Projects ⭐⭐
+
+#### [Polish Emotion Classification Pipeline](https://github.com/zpilitowska1/emotion-classification-pipeline)
+**Description:** Group project, end-to-end NLP pipeline for automatic emotion detection in Polish video/audio content, generating timestamped emotion annotations for conversational content such as TV shows, interviews or podcasts.
+**Tech & Features:**    Natural Language Understanding, Python, FFmpeg, AssemblyAI, Marian MT, XLM-RoBERTa, TensorFlow/Keras, pandas, multi-source input (YouTube/local files), Polish transcription, neural translation (PL→EN), 7-class emotion detection, timestamped CSV output.
 
 #### [Job Search Assistant](https://github.com/zpilitowska1/job-search-assistant)  
 **Description:**    NLP-powered chatbot that automates job searching based on user input.  
