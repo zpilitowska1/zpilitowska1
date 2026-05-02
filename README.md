@@ -1,6 +1,7 @@
 # Hi there! 👋👋
 
 | AI & Data Science student 
+| Data Engineer
 | Exploring machine learning, data analysis, and artificial intelligence  
 | Building projects to learn and grow  
 
@@ -11,6 +12,10 @@
 #### [Polish Emotion Classification Pipeline](https://github.com/zpilitowska1/emotion-classification-pipeline)
 **Description:** Group project, end-to-end NLP pipeline for automatic emotion detection in Polish video/audio content, generating timestamped emotion annotations for conversational content such as TV shows, interviews or podcasts.
 **Tech & Features:**    Natural Language Understanding, Python, FFmpeg, AssemblyAI, Marian MT, XLM-RoBERTa, TensorFlow/Keras, pandas, multi-source input (YouTube/local files), Polish transcription, neural translation (PL→EN), 7-class emotion detection, timestamped CSV output.
+
+#### [Polish Fake News Classifier](https://github.com/zpilitowska1/fake_news_classification)
+**Description:** End-to-end Polish fake news detection system with a self-collected dataset of ~5,600 articles from three sources. Includes full preprocessing pipeline with leakage prevention, classical baseline and fine-tuned transformer.
+**Tech & Features:** NLP, Python, HerBERT (allegro/herbert-base-cased), TF-IDF, XGBoost, Scikit-learn, Streamlit, MLflow, Selenium, BeautifulSoup, F1=0.9737 / ROC-AUC=0.9951
 
 #### [Job Search Assistant](https://github.com/zpilitowska1/job-search-assistant)  
 **Description:**    NLP-powered chatbot that automates job searching based on user input.  
@@ -47,5 +52,7 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
+![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ---
