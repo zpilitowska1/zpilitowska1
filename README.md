@@ -11,10 +11,12 @@
 
 #### [Polish Emotion Classification Pipeline](https://github.com/zpilitowska1/emotion-classification-pipeline)
 **Description:** Group project, end-to-end NLP pipeline for automatic emotion detection in Polish video/audio content, generating timestamped emotion annotations for conversational content such as TV shows, interviews or podcasts.
+
 **Tech & Features:**    Natural Language Understanding, Python, FFmpeg, AssemblyAI, Marian MT, XLM-RoBERTa, TensorFlow/Keras, pandas, multi-source input (YouTube/local files), Polish transcription, neural translation (PL→EN), 7-class emotion detection, timestamped CSV output.
 
 #### [Polish Fake News Classifier](https://github.com/zpilitowska1/fake_news_classification)
 **Description:** End-to-end Polish fake news detection system with a self-collected dataset of ~5,600 articles from three sources. Includes full preprocessing pipeline with leakage prevention, classical baseline and fine-tuned transformer.
+
 **Tech & Features:** NLP, Python, HerBERT (allegro/herbert-base-cased), TF-IDF, XGBoost, Scikit-learn, Streamlit, MLflow, Selenium, BeautifulSoup, F1=0.9737 / ROC-AUC=0.9951
 
 #### [Job Search Assistant](https://github.com/zpilitowska1/job-search-assistant)  
